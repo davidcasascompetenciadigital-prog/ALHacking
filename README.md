@@ -2,7 +2,7 @@ Autor: 4lbH4cker
 ### Versión 4
 ### Traducido por David Casas M para FellowerOS
 
-(![image](https://raw.githubusercontent.com/4lbH4cker/ALHacking/main/alhacking.png)
+(![image](https://github.com/davidcasascompetenciadigital-prog/ALHacking/blob/main/alhacking_es.png)
 
 # Herramientas de Hacking
 Herramientas para ayudarte con hacking ético, hackeo de redes sociales, información de teléfonos, ataque Gmail, ataque a números telefónicos, descubrimiento de usuarios, Hack de Webcam
