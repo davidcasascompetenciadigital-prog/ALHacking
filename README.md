@@ -1,34 +1,35 @@
-Author: 4lbH4cker
-### Version 4
+Autor: 4lbH4cker
+### Versión 4
+### Traducido por David Casas M para FellowerOS
 
 (![image](https://raw.githubusercontent.com/4lbH4cker/ALHacking/main/alhacking.png)
 
-# Hacking Tools
-Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
+# Herramientas de Hacking
+Herramientas para ayudarte con hacking ético, hackeo de redes sociales, información de teléfonos, ataque Gmail, ataque a números telefónicos, descubrimiento de usuarios, Hack de Webcam
 
-• Powerful DDOS attack tool!!
+• ¡¡Herramienta de ataque DDOS poderosa!!
 
-Youtube Video: https://www.youtube.com/watch?v=zgdq6ErscqY
-# Operating System Requirements
-works on any of the following operating systems:
+Video de YouTube: https://www.youtube.com/watch?v=zgdq6ErscqY
+# Requisitos del Sistema Operativo
+Funciona en cualquiera de los siguientes sistemas operativos:
 
-• Android (Using the Termux App)
+• Android (Usando la App Termux)
 
-• Linux (Debian Based Systems)
+• Linux (Sistemas basados en Debian)
 
 • Unix
 
-# How to Install
-* Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/4lbH4cker/ALHacking>`
+# Cómo Instalar
+* Abre la terminal y escribe `<pkg install git>`
+* Luego `<git clone https://github.com/4lbH4cker/ALHacking>`
 * `<cd ALHacking>`
 * `<bash alhack.sh>`
 
 
-# Warning
+# Advertencia
 
-We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
+¡No nos hacemos responsables del mal uso o daño causado por este programa. ¡Usa esta herramienta bajo tu propio riesgo!
 
 
-❤️ Support me:
+❤️ Apóyame:
 https://www.paypal.me/Relvllahi
